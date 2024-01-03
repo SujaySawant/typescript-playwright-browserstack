@@ -1,0 +1,16 @@
+{
+  "name": "v1.28_playwright_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"sample-test": "npx browserstack-node-sdk playwright test --config=./playwright.config.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "1.40.0",
+    "browserstack-node-sdk": "1.31.9"
+  }
+}

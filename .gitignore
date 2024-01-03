@@ -1,0 +1,8 @@
+node_modules
+playwright-report
+log
+test-results
+local.log
+playwright-browserstack-sdk.config.js
+browserstackSetupConfig.json
+.DS_Store
