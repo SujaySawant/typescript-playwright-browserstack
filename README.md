@@ -15,10 +15,6 @@ Creating a sample repo for different Playwright languages and runners
 
 - To run a sample test, run `npm run sample-test`
 
-## Run tests on locally hosted websites
-* Run a website on http://localhost:5500
-* Run `npm run sample-local-test`
-
  Understand how many parallel sessions you need by using our [Parallel Test Calculator](https://www.browserstack.com/automate/parallel-calculator?ref=github)
 
 ## Notes
